@@ -1,0 +1,14 @@
+<svg width="1200" height="1800" viewBox="0 0 1200 1800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mush" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b0764" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#bef264" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#mush)"/>
+  <ellipse cx="600" cy="520" rx="360" ry="180" fill="rgba(190,242,100,0.25)" />
+  <text x="200" y="520" fill="#f8fafc" font-family="Inter, Arial" font-size="72" font-weight="700">Mycelium Crown</text>
+  <text x="200" y="590" fill="#e9d5ff" font-family="Inter, Arial" font-size="44">Rootbound · Page 2</text>
+  <text x="220" y="1240" fill="#ecfeff" font-family="Inter, Arial" font-size="36">Spores whisper along the cavern walls toward a lost throne.</text>
+</svg>
