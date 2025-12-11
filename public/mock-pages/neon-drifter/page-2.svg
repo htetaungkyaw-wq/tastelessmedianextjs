@@ -1,0 +1,15 @@
+<svg width="1200" height="1800" viewBox="0 0 1200 1800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12163a" />
+      <stop offset="50%" stop-color="#4c1d95" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#grad)"/>
+  <circle cx="200" cy="240" r="160" fill="rgba(99,102,241,0.35)"/>
+  <rect x="80" y="1200" width="1040" height="280" rx="40" fill="rgba(5,8,22,0.7)" stroke="#8b5cf6" stroke-width="8" />
+  <text x="120" y="1320" fill="#e0f2fe" font-family="Inter, Arial" font-size="72" font-weight="700">Neon Drifter</text>
+  <text x="120" y="1400" fill="#c4d4f7" font-family="Inter, Arial" font-size="44">Episode 1 · Page 2</text>
+  <text x="120" y="1480" fill="#a5b4fc" font-family="Inter, Arial" font-size="32">Rain-slick streets, stolen AI core, synth pulse.</text>
+</svg>
